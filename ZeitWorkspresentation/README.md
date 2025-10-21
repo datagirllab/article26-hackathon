@@ -7,21 +7,8 @@ Welcome to our space for the Article 26 Hackathon project by ZeitWorks
 
 ### 🧪 Secondary Prototype
 This version runs locally on our development machines.  
-Screenshots of the interface are included below to illustrate the functionality.
+Screenshots of the interface are included in the screenshots folder to illustrate the functionality.
 
-## 🎥 Slides & Demo
-- [Google Slides Presentation](https://docs.google.com/presentation/your-slide-link)
-- [Download PDF Version](./Presentation.pdf)
-
-## 📸 Screenshots
-Below are visuals captured from our local prototype environment (running on localhost:3000):
-- Login page  
-- Time booking screen  
-- Manager dashboard  
-
-
-
----
 
 **Team Name:** ZeitWorks  
 **Members:**  
@@ -31,4 +18,5 @@ Below are visuals captured from our local prototype environment (running on loca
 - Paula Manye Herzuah – Developer  
 - Klenam Aku Tsikata - Developer
 - Irene Ofori-Agyeman - Developer
+- Vida Korkor Sappor - Quality Assurance
 
